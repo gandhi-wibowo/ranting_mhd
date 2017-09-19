@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "499781794056",
+    "firebase_url": "https://skripsirida.firebaseio.com",
+    "project_id": "skripsirida",
+    "storage_bucket": "skripsirida.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499781794056:android:d0417f23277e86b4",
+        "android_client_info": {
+          "package_name": "com.skripsi.rida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499781794056-om4i0062gtds64d8ekqepbbp54hd5tgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0K83eFV5TuIMAjjhwrQDguEcyOSwaqCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

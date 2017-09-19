@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Data Kantor">
+        <menu>
+            <item
+                android:id="@+id/kantor"
+                android:icon="@mipmap/ic_location_city_black_48dp"
+                android:title="Data Kantor" />
+            <item
+                android:id="@+id/anggota"
+                android:icon="@mipmap/ic_people_black_48dp"
+                android:title="Data Anggota" />
+        </menu>
+    </item>
+    <item android:title="Data Saya">
+        <menu>
+            <item
+                android:id="@+id/saya"
+                android:icon="@mipmap/ic_person_black_48dp"
+                android:title="Data Saya" />
+            <item
+                android:id="@+id/password"
+                android:icon="@mipmap/ic_vpn_key_black_48dp"
+                android:title="Password" />
+        </menu>
+    </item>
+    <item android:title="Tugas Saya">
+        <menu>
+            <item
+                android:id="@+id/users"
+                android:icon="@mipmap/ic_group_add_black_48dp"
+                android:title="Data Pengguna" />
+            <item
+                android:id="@+id/sekolah"
+                android:icon="@mipmap/ic_school_black_48dp"
+                android:title="Data Sekolah" />
+        </menu>
+    </item>
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/logout"
+            android:icon="@mipmap/ic_power_settings_new_black_48dp"
+            android:title="Log Out" />
+    </group>
+
+</menu>

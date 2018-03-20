@@ -1,5 +1,5 @@
 <?php
-define( 'API_ACCESS_KEY', "AAAAdF1Q-Qg:APA91bH4iOQXoKNH5Osnie91zNwmSnLkshy-cv3B2AYRzbTv18EF5LbBtaLeoOffar34tVkMrIsIeBxc_yX4Io9uLT5fIt-bVa3MByTLap0JAmBeicQKsjP45zpDbXOvW1LMOU2CHoou");
+define( 'API_ACCESS_KEY', "di isi dengan API yang di dapat dari Firebase Cloud Messaging");
 function FCM($token,$title,$isi){
   $msg = array(
    'body' 	=> $isi,
